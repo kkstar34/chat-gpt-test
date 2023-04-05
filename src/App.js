@@ -15,7 +15,7 @@ function App() {
     }, {
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer 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'
+        'Authorization': 'Bearer xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
       }
     });
   
@@ -23,7 +23,7 @@ function App() {
      console.log(response.data.choices[0])
   }catch (e) {
 
-    
+
   }
 
   }
